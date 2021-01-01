@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #3BB2E2;
+  }
+  
+  .mainholder {
+    width: 25%;
+    height: 70%;
+    display: grid;
+
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 2px black;
+  }
+  
+  .registerform {
+    align-self: flex-start;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
